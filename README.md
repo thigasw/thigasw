@@ -19,6 +19,12 @@ Estudante de Engenharia de Software e programador FullStack  👋
  
   
 </div>
+
+<div>
+  <a href="https://www.linkedin.com/in/thiago-wilkerson-358977334">
+    <img height="50" width="60" align="center" margin-top="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
   
 
 <!--
